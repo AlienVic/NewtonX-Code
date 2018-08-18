@@ -6,7 +6,7 @@ The purpose of this challenge is to build a RESTful API that implements some CRU
 Specification:
 
 The user resource contains the following information:
-- A unique number identifier
+- A unique number identifier  (for easy to test, I use number to replace the uuid that can generate unique indentifier)
 - First name
 - Last name
 
